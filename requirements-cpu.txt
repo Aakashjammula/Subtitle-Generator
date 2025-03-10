@@ -1,0 +1,7 @@
+torch torchvision torchaudio
+transformers
+datasets
+librosa
+moviepy
+ffmpeg-python
+ipywidgets
